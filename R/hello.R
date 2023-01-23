@@ -2,7 +2,6 @@
 #'
 #' @param x example
 #'
-#' @return
 #' @export
 #' 
 #' @examples
