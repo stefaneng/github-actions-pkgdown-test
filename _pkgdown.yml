@@ -1,4 +1,6 @@
 url: https://stefaneng.github.io/github-actions-pkgdown-test/
 template:
   bootstrap: 5
-
+figures:
+  dev: grDevices::jpeg
+  fig.ext: jpeg
